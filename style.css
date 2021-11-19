@@ -1,0 +1,10 @@
+canvas{
+    margin-top: 40px;
+    border-radius: 20px;
+    border-color: aqua;
+    border: black dashed;
+}
+
+body{
+    background-color: skyblue;
+}
